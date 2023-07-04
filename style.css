@@ -14,7 +14,7 @@ h1,h2,h3,h4,h5,h6{
 /* 
 1st section */
 .container {
-   width: 1190px;
+   max-width: 85%px;
    margin: auto;
    padding: 10px;
 }
@@ -35,7 +35,7 @@ ol,ul {
 }
 table{
    margin: 10px auto;
-   min-width: 600px
+   max-width: 600px
 }
 td,th{
    padding: 5px 10px;
